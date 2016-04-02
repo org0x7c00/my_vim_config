@@ -17,7 +17,7 @@
 依次执行以下命令：
 
 ``````
-git clone https://github.com/org0x7c00/my_vim_config  ~
+git clone https://github.com/org0x7c00/my_vim_config  ~/vim_install
 
 cd ~/my_vim_config
 
@@ -26,7 +26,6 @@ tar -zvxf vim_tmp.tar.gz
 mv vim_tmp ~/.vim
 
 mv vimrc ~/.vimrc
-
 ``````
 
 收工！
