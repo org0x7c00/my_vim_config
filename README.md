@@ -37,5 +37,6 @@
 
 ​      将```my_vim_confi```中的```vimrc```保存为HOME目录中的隐藏文件，即就是：```~/.vimrc```
 
-
+####更多
+还有一些VIM的额外配置，转到这个页面：[my_vim_config](https://github.com/org0x7c00/my_vim_config)中的__vim_extend_config.md__
 
