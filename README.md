@@ -20,7 +20,7 @@
 ```tar -zvxf vim_tmp.tar.gz```
 ```mv vim_tmp ~/.vim```
 ```mv vimrc ~/.vimrc```
-手工！
+收工！
 
 整个过程有(1)和(2)这两个步骤。
 
