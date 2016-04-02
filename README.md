@@ -19,7 +19,7 @@
 ``````
 git clone https://github.com/org0x7c00/my_vim_config  ~/vim_install
 
-cd ~/my_vim_config
+cd ~/vim_install
 
 tar -zvxf vim_tmp.tar.gz
 
