@@ -22,7 +22,7 @@
 
 ​          随便选择以上链接，下载完成后得到一个打包压缩的文件```my_vim_ubt.tar.gz```,
 
-​         在home目录下执行以下命令，解压：
+​         在HOME目录下执行以下命令，解压：
 
 ​        ```tar -zvxf my_vim_ubt.tar.gz```
 
@@ -34,7 +34,7 @@
 
 ​      ```git clone https://github.com/org0x7c00/my_vim_config/```
 
-​      将```my_vim_confi```中的vimrc保存为home目录中的隐藏文件，即就是：```.vimrc```
+​      将```my_vim_confi```中的```vimrc```保存为HOME目录中的隐藏文件，即就是：```~/.vimrc```
 
 
 
