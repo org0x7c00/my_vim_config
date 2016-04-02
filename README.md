@@ -13,6 +13,15 @@
 ####怎么使用呢？
 
 前面已经说过，YCM神器已经编译过了，所以就没那么麻烦了。
+####安装它
+依次执行以下命令：
+```git clone https://github.com/org0x7c00/my_vim_config  ~```
+```cd ~/my_vim_config```
+```tar -zvxf vim_tmp.tar.gz```
+```mv vim_tmp ~/.vim```
+```mv vimrc ~/.vimrc```
+手工！
+
 整个过程有(1)和(2)这两个步骤。
 
 （1）下载打包文件，链接提供如下：
